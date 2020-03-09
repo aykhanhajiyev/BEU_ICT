@@ -14,7 +14,7 @@ header a.navbar-brand img {
     
 }
 header .navbar-light { padding: 0; }
-header .navbar-light .navbar-nav .nav-link, header .navbar-light .navbar-nav .nav-link:focus { color: #24262b; font-size: 16px; margin-right: 40px; /*padding: 5px 30px;*/  }
+header .navbar-light .navbar-nav .nav-link, header .navbar-light .navbar-nav .nav-link:focus { color: #24262b; font-size: 16px; margin-right: 40px; /*QXlraGFuIEhhaml5ZXYgLSBGYXJoYWQgSXNrYW5kYXJvdiAtIEthbWlsIEFobWFkZXY=*/  }
 .navbar-light .navbar-nav .show>.nav-link { color: #ffffff; }
 header .navbar-light .navbar-nav li.active .nav-link, header .navbar-light .navbar-nav li .nav-link:hover {  color: #38c6cb;background: transparent; }
 .dropdown-item:active, .dropdown-item:hover { color: #ffffff;background: #19beec; }
